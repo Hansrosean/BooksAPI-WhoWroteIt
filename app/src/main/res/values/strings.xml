@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BooksAPI</string>
+    <string name="title_book_search">Enter a book name or author name…</string>
+    <string name="btn_search">Search</string>
+</resources>
